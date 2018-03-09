@@ -9,7 +9,7 @@ $("#elem1").on ("mouseout",function(){
 });
 
 $("#elem2").on ("mouseover",function(){
-    $("img").attr("src", "img/arbol.jpg");
+    $("img").attr("src", "img/lago.jpg");
     $("#elem2").addClass("destacar");
 });
 $("#elem2").on ("mouseout",function(){
@@ -18,7 +18,7 @@ $("#elem2").on ("mouseout",function(){
 });
 
 $("#elem3").on ("mouseover",function(){
-    $("img").attr("src", "img/arbol.jpg");
+    $("img").attr("src", "img/rio.jpg");
     $("#elem3").addClass("destacar");
 });
 $("#elem3").on ("mouseout",function(){
@@ -28,7 +28,7 @@ $("#elem3").on ("mouseout",function(){
 
 
 $("#elem4").on ("mouseover",function(){
-    $("img").attr("src", "img/arbol.jpg");
+    $("img").attr("src", "img/sol.jpg");
     $("#elem4").addClass("destacar");
 });
 $("#elem4").on ("mouseout",function(){
